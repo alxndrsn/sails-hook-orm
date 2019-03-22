@@ -1,5 +1,11 @@
 # sails-hook-orm
 
+# This fork
+
+Update to change the waterline dependency to https://github.com/alxndrsn/waterline.  See that link for associated changes.
+
+# Introduction
+
 Implements support for Waterline ORM in Sails.
 
 > This is a core hook in the Sails.js framework.  You can override or disable it using your sailsrc file or environment variables.  See [Concepts > Configuration](http://sailsjs.com/docs/concepts/configuration) for more information.

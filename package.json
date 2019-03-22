@@ -1,5 +1,5 @@
 {
-  "name": "sails-hook-orm",
+  "name": "sails-hook-safe-orm",
   "version": "2.1.1",
   "description": "The ORM hook from Sails core.",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikermcneil/sails-hook-orm.git"
+    "url": "git+https://github.com/alxndrsn/sails-hook-orm.git"
   },
   "keywords": [
     "waterline",
@@ -33,7 +33,7 @@
     "parley": "^3.3.2",
     "prompt": "0.2.14",
     "sails-disk": "^1.0.0-0",
-    "waterline": "^0.13.5-0",
+    "safe-waterline": "^0.13.5-0",
     "waterline-utils": "^1.0.0"
   },
   "sails": {
