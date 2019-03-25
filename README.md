@@ -2,7 +2,13 @@
 
 # This fork
 
+## Why?
+
 Update to change the waterline dependency to https://github.com/alxndrsn/waterline.  See that link for associated changes.
+
+## Version numbers
+
+Version numbers should match version numbers from upstream, with an additional `-{number}` suffix representing the iteration on the upstream version.
 
 # Introduction
 
